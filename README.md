@@ -57,7 +57,9 @@ en mente, ¡no dudes en ponerte en contacto!
 
 ✔ Trabajo en C# con ***VisualStudio 2022***
 
-✔ Trabajo en  SQL con ***SQL Server Management Studio 2019***ㅤ
+✔ Trabajo en  SQL con ***SQL Server Management Studio 2019***
+
+⚙️ Aprendiendo a usar Godot con C# 🛠️
 
 
 
